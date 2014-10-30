@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87327BC7-61A3-4F25-A1C9-A57024A9DF95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>delay 10 seconds to launch image</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>452F7FD3EC88F30177E0148983A836A4002CC575</key>
+		<string>github.com:668Jerry/delay-10-seconds-on-launch-image.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>delay 10 seconds to launch image/delay 10 seconds to launch image.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>452F7FD3EC88F30177E0148983A836A4002CC575</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:668Jerry/delay-10-seconds-on-launch-image.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>452F7FD3EC88F30177E0148983A836A4002CC575</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>452F7FD3EC88F30177E0148983A836A4002CC575</string>
+			<key>IDESourceControlWCCName</key>
+			<string>delay-10-seconds-on-launch-image</string>
+		</dict>
+	</array>
+</dict>
+</plist>
